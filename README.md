@@ -1,5 +1,11 @@
 # Eng. [Mohamed Hammad's](https://www.linkedin.com/in/mohamed-hammad-a720a622/) Posts
 
+![Forks](https://img.shields.io/github/forks/fighteros/Eng-Mohamed-Hammad-Posts)
+![Stars](https://img.shields.io/github/stars/fighteros/Eng-Mohamed-Hammad-Posts)
+![Pull Requests](https://img.shields.io/github/issues-pr/fighteros/Eng-Mohamed-Hammad-Posts)
+![Last Commit](https://img.shields.io/github/last-commit/fighteros/Eng-Mohamed-Hammad-Posts)
+![Contributors](https://img.shields.io/github/contributors/fighteros/Eng-Mohamed-Hammad-Posts)
+
 ## Eng. Hammad Career Shift
 
 1- [Post 1](https://www.facebook.com/mohamed.hamedhammad/posts/5334372769968563)
