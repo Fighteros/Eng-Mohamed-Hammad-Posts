@@ -1,27 +1,16 @@
-
 # Eng. [Mohamed Hammad's](https://www.linkedin.com/in/mohamed-hammad-a720a622/) Posts
-
-  
 
 ## Eng. Hammad Career Shift
 
-  
-
 1- [Post 1](https://www.facebook.com/mohamed.hamedhammad/posts/5334372769968563)
-
-  
 
 <details>
 
-  
-
 <summary> حيث ان كتير بلاقي ...</summary>
-
-  
 
 <p>اعيد نشره ربما افادا احدا
 
-#كاريير_شيفت_حماد #مسلسل_١
+#كاريير*شيفت*حماد #مسلسل_١
 
 حيث ان كتير بلاقي في التعليقات زملاء عاوزين يعرفوا قصه الكاريير شيفت من مدني الي هندسة البرمجيات فهكتب في الموضوع بس القصه طويله وانا مش عارف اذا كانت مفيده ولا لأ لكن استجابه للطلب هكتب و هستمر في الكتابه لانها فعلا مش هينفع تخلص في بوست.
 
@@ -47,27 +36,15 @@
 
 الي حلقه قادمه.</p>
 
-  
-
 </details>
-
-  
 
 2- [Post 2](https://www.facebook.com/mohamed.hamedhammad/posts/5334374669968373)
 
-  
-
 <details>
-
-  
 
 <summary> بعد ادراكي لأهمية تعلم ال OOP ...</summary>
 
-  
-
 <p>
-
-  
 
 اعيد نشره ربما افاد احدا
 
@@ -91,31 +68,17 @@
 
 الحلقة الجاية.
 
-  
-
 </p>
-
-  
 
 </details>
 
-  
-
 3- [Post 3](https://www.facebook.com/mohamed.hamedhammad/posts/5334376326634874)
-
-  
 
 <details>
 
-  
-
 <summary> في الاتنين بوست اللي فاتوا انا ...</summary>
 
-  
-
 <p>
-
-  
 
 اعيد نشره ربما افاد احدا
 
@@ -153,31 +116,17 @@
 
 الي حلقه قادمه.
 
-  
-
 </p>
-
-  
 
 </details>
 
-  
-
 4- [Post 4](https://www.facebook.com/mohamed.hamedhammad/posts/5334378616634645)
-
-  
 
 <details>
 
-  
-
 <summary> انا وصلت مع حضرتك لسنه 2002. ...</summary>
 
-  
-
 <p>
-
-  
 
 اعيدنشره ربما افاد احدا
 
@@ -207,31 +156,17 @@
 
 الي حلقه قادمه.
 
-  
-
 </p>
-
-  
 
 </details>
 
-  
-
 4- [Post 5](https://www.facebook.com/mohamed.hamedhammad/posts/5334380406634466)
-
-  
 
 <details>
 
-  
-
 <summary> بدات الاهتمام بمنتجات ميكروسوفت ...</summary>
 
-  
-
 <p>
-
-  
 
 اعيد نشره ربماافاد احدا
 
@@ -285,19 +220,11 @@
 
 و شكرا علي من تحمل قراءة الخمس حلقات.
 
-  
-
 </p>
-
-  
 
 </details>
 
-  
-
 ## [Software Tester](https://www.facebook.com/mohamed.hamedhammad/posts/5334246833314490)
-
-  
 
 <details>
 
@@ -305,15 +232,9 @@
 
 امتي يبدا دور السوفتوير تيستر ؟
 
-  
-
 </summary>
 
-  
-
 <p>
-
-  
 
 امتي يبدا دور السوفتوير تيستر ؟
 
@@ -331,17 +252,11 @@
 
 لا دا مش عادي.دا اسمه اهمال وقله احترام للعمل و للاخرين.
 
-  
-
 </p>
 
 </details>
 
-  
-
 ## [AI](https://www.facebook.com/story.php?story_fbid=5360290700710103&id=100001876777351&_rdr)
-
-  
 
 <details>
 
@@ -397,19 +312,11 @@
 
 </details>
 
-  
-
 ## .Net
-
-  
 
 [.Net group](https://m.facebook.com/story.php?story_fbid=5251717044900803&id=100001876777351)
 
-  
-
 1- [Post link](https://m.facebook.com/story.php?story_fbid=5345089308896909&id=100001876777351)
-
-  
 
 <details>
 
@@ -443,27 +350,15 @@ Concurrency in .NET
 
 علي الدرب سائرون.
 
-  
-
 </p>
-
-  
 
 </details>
 
-  
-
 ## [LINQ](https://m.facebook.com/story.php?story_fbid=5343539002385273&id=100001876777351)
-
-  
 
 <details>
 
-  
-
 <summary> انا لاحظت من بعض التعليقات علي فيديوز </summary>
-
-  
 
 <p>
 
@@ -487,23 +382,13 @@ Concurrency in .NET
 
 </p>
 
-  
-
 </details>
-
-  
 
 [Video Link](https://www.youtube.com/watch?v=Osa9wSMVgS0&list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f&index=11)
 
-  
-
 ## [Science & Technology](https://m.facebook.com/story.php?story_fbid=5340348566037650&id=100001876777351)
 
-  
-
 <details>
-
-  
 
 <summary> ممكن تلاقي هنا رد علي سؤال متعب بتساله لنفسك كتير... </summary>
 
@@ -539,15 +424,9 @@ Concurrency in .NET
 
 </details>
 
-  
-
 ## [Attention](https://m.facebook.com/story.php?story_fbid=5316351721770668&id=100001876777351)
 
-  
-
 <details>
-
-  
 
 <summary> من أربع سنين ناس نشروا بحث عن... </summary>
 
@@ -573,15 +452,9 @@ Concurrency in .NET
 
 </details>
 
-  
-
 ## [Algorithms](https://m.facebook.com/story.php?story_fbid=5228129937259514&id=100001876777351)
 
-  
-
 <details>
-
-  
 
 <summary> لوحضرتك مدرستش هندسة برمجيات... </summary>
 
@@ -601,31 +474,17 @@ Concurrency in .NET
 
 </details>
 
-  
-
 ## [Keep learning](https://m.facebook.com/story.php?story_fbid=5218792461526595&id=100001876777351)
 
-  
-
 <details>
-
   
-
 <summary>
-
-  
 
 انا حاولت اكتب البوست باقل قدر من الحده والانفعال. لكن للاسف برضه لا يزال حاد.
 
-  
-
 </summary>
 
-  
-
 <p>
-
-  
 
 انا حاولت اكتب البوست باقل قدر من الحده والانفعال. لكن للاسف برضه لا يزال حاد.
 
@@ -653,19 +512,11 @@ Concurrency in .NET
 
 لو مش مصدقني اقرا كتب Grant Fritchey. دا من اكتر عباد الله فهما لل Execution Plan.
 
-  
-
 </p>
 
-  
-
-<details>
-
-  
+</details>
 
 ## [Messaging Patterns for .Net Developers](https://m.facebook.com/story.php?story_fbid=5206858189386689&id=100001876777351)
-
-  
 
 يا شباب.
 
@@ -675,15 +526,10 @@ Concurrency in .NET
 
 اوعي يفوتك.
 
-  
-
 [On .NET Live - Messaging Patterns for .NET Developers](https://www.youtube.com/watch?v=ef1DK76rseM)
-
-  
 
 ## Database Posts
 
-  
 <details>
 <summary>
 كتابين دا هينقلوك الي فهم كويس لمختلف المفاهيم الخاصه...
@@ -704,9 +550,9 @@ Concurrency in .NET
 الكتابين دول بيعوضوا النقص المروع في تدريس قواعد البيانات في الجامعات بتاعتنا. فعلا يعني دول العلاج.
 
 شير البوست من فضلك لانه ممكن يختصر علي ناس كتير عذاب و لف ودوران.
+
 </p>
 <deatails>
-
 
 <details>
 <summary>
@@ -736,14 +582,11 @@ Concurrency in .NET
 دي حيلة عنيفة تلجالها بس لو لقيته بيعمل كارثه في ال IO. هي بتعقد الدنيا شوية لكن تاثيرها هايل لانها فعلا بتخليه يعمل Seek و ساعتها Where بتاعتك هتقيد الناتج و تخلي السلوك علي حسب رغبتك.
 
 برغم تطور ال Query Optimizer لكن احيانا بنحتاج دا في ال ال Query بالغة التعقيد.
+
 </p>
 <deatails>
 
-  
-
 ## FP
-
-  
 
 | Post | link |
 
