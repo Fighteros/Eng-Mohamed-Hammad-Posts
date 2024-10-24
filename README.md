@@ -987,3 +987,49 @@ Phantom
 - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/?)
 
 </details>
+
+<details>
+
+<summary>
+عاوزك لومتابع سيشنز ال FP تقرا فصل 8 من الكتاب الجميل دا....
+
+</summary>
+<p>
+عاوزك لومتابع سيشنز ال FP تقرا فصل 8 من الكتاب الجميل دا.
+دا كتاب عامله اتنين احسن وصف لهم انهم عباقره.مفيش وصف تاني والفصل التامن هيزود فهمك لفكرة تخزين ال Delegates في Data Structures لاستخدامها لاحقا اللي هتلاقيني بستخدمها بكثافه و حاليا انت شفت عليها امثله كتير و شفت الكود بتاعها لحالات معقده حتي اعقد من الحالات اللي الكتاب بيحلها بمراحل.
+انا مرضيتش اقولك تقراه قبل السيشنز لانه ممكن يكون مزعج شويه بسبب انتقاله بين لغتين برمجه F# and C# ودا ممكن يلخبط شويه انما لوكنت تابعت السيشنز حتي الان فانا متاكد انك هتقراه وتفهمه بسهوله تامه. فصل 8 بقي هتتبسط وتزود فهمك جدا.
+و طبعا كتاب Functional Thinking: Paradigm Over Syntax اللي قلتلكم عليه سابقا دا مهم تقراه كله لانه معمول علشان ينقلك من OOP to FP Mindset و دي خطوةمهمة لانها بتبني علي معلوماتك في OOP علشان توضح النقله تتم ازاي و ال Analogy في الافكار.
+انا حاليا بطلب منك تقرا الكتب دي لاني فعلا متاكد انك هتقراها بسهوله.
+بالتوفيق.
+</p>
+
+![Functional programming for the real world ](/imgs/fb/1.jpg)
+
+</details>
+
+<details>
+
+<summary>
+المهندس اللي عمل Reactive Programming في ميكروسوفت واخترع هذا الجمال و قدمه...
+
+</summary>
+<p>
+المهندس اللي عمل Reactive Programming في ميكروسوفت واخترع هذا الجمال و قدمه للعالم اسمه Erik Meijer. و دا مهندس تقيل جدا.
+المقال دا بيتكلم عن رايه في Functional Programming مقارنه بال Imperative Programming.
+ابن حماد قال الكلام دا  لكن حبيت اجيبلك برضه تسمع من ابن Meijer.
+</p>
+
+- [Functional programming is a tool for thought](https://hotforknowledge.com/2016/10/19/4-functional-for-thought-imperative-for-hacking/?)
+</details>
+
+---
+
+### [Functional Programming playlist](https://www.youtube.com/watch?v=9bW8dp1M1Ac&list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
+
+---
+
+### [Functional Programming examples](https://github.com/mohamedSabry0/functional_programming_examples)
+
+---
+
+<center>Show some ❤️ by ⭐ the repo</center>
